@@ -9,3 +9,5 @@ recipe "shibboleth_sp", "Install and configure Shibboleth SP"
 %w{ centos }.each do |os|
   supports os
 end
+
+depends "apache2"
