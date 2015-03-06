@@ -1,5 +1,5 @@
-maintainer        "Elliot Kendall"
-maintainer_email  "elliot.kendall@ucsf.edu"
+maintainer        "Chris Modica"
+maintainer_email  "chrismodica@gmail.com"
 license           "Apache 2.0"
 description       "Install and configure Shibboleth SP"
 version           "0.1.2"
